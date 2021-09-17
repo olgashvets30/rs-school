@@ -1,1 +1,1 @@
-# https://olgashvets30.github.io/rs-school-cv/cv
+# https://olgashvets30.github.io/rsschool-cv/cv
