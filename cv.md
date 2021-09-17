@@ -24,3 +24,5 @@ That’s why i want to change my job and start to create.
 
 ## Educational projects
 Here are some of my educational projects:
+* slider https://jsfiddle.net/olgashvez30/nxdme9rp/2/
+* https://jsfiddle.net/olgashvez30/feod8syt/2/
