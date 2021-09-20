@@ -1,1 +1,1 @@
-# rs-school
+# https://olgashvets30.github.io/rsschool-cv/cv
